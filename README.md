@@ -1,2 +1,2 @@
-# iepmafia-content
-IEP Mafia Content
+# IEP Mafia Content
+Repo for the Decap CMS content
